@@ -3,12 +3,10 @@ Feature: Section 1
 Scenario: CQCash_CQ_Pre_CM
 Given I launch Commerce manager <Login><Password>
 |Login|Password|
-|Alexis|3546534|
-|Indu|12345|
+|zaeaze|3546534|
 When I login to Commerce Manager<Login><Password>
 |Login|Password|
-|Alexis|3546534|
-|Indu|12345|
+|zaeaze|3546534|
 When I navigate to customers type notional limits
 When I search and filter for the notional items
 When Update the "CQ" minimum notional limit to "2.00"

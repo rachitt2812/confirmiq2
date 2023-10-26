@@ -1594,11 +1594,7 @@ Scenario: Dr. Bill posts to his own blog
 |Login|Password|
 |Login|Password|
 |Login|Password|
-|alexis|sddfdsf|
 |Login|Password|
-|alexis|sddfdsf|
 |Login|Password|
-|alexis|sddfdsf|
 |Login|Password|
-|alexis|sddfdsf|
-|Akshay|456456|
+|zaeaze|3546534|

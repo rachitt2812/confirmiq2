@@ -8,7 +8,7 @@ Scenario: CQCash_CQ_Pre_CM
     When I search and filter for the notional items 
     When Update the "CQ" minimum notional limit to "2.00" 
     Then Updates should be reflected on the record
-    Then i say hello 
+    Then i say hello aan
     
 
 Scenario: CQCash_CQ_Post_CM 

@@ -10,7 +10,7 @@ Scenario: CQCash_CQ_Pre_CM
     When I navigate to customers type notional limits
     When I search and filter for the notional items
     When Update the "CQ" minimum notional limit to "2.00"
-    Then Updates should be reflected on the record
+    Then Updates should be reflected on the record new change
     Then this is new thing
 
 Scenario: CQCash_CQ_Post_CM 
