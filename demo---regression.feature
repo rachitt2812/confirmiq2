@@ -2,7 +2,7 @@ Feature: CQCash
 
 
 Scenario: CQCash_CQ_Pre_CM 
-    Given I launch Commerce manager 
+    Given I launch Commerce manager newqdqd
     When I login to Commerce Manager 
     When I navigate to customers type notional limits 
     When I search and filter for the notional items 
